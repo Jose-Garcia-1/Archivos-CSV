@@ -1,0 +1,31 @@
+﻿consulta_id,consulta,tema_objetivo,area,particion
+Q001,profundidad de árboles de decisión,arboles_decision,machine learning,train
+Q002,número de estimadores en random forest,random_forest,machine learning,test
+Q003,cómo funciona gradient boosting,gradient_boosting,machine learning,train
+Q004,interpretación de regresión lineal,regresion_lineal,machine learning,train
+Q005,modelos de clasificación supervisada,clasificacion,machine learning,train
+Q006,cómo calcular mse mae y r2,metricas_regresion,machine learning,test
+Q007,precisión recall y f1,metricas_clasificacion,machine learning,train
+Q008,separación train test y validación,validacion,machine learning,test
+Q009,diferencia entre normalizar y estandarizar,normalizacion,machine learning,val
+Q010,cómo imputar valores nulos,datos_faltantes,machine learning,train
+Q011,cómo funciona tf idf,tfidf,búsqueda de información,train
+Q012,etapas de un motor de búsqueda,buscadores,búsqueda de información,train
+Q013,cómo ordenar resultados por relevancia,ranking,búsqueda de información,test
+Q014,cómo tokenizar documentos,tokenizacion,búsqueda de información,train
+Q015,calcular similitud coseno entre textos,similitud_coseno,búsqueda de información,val
+Q016,consultas select con where,sql_select,bases de datos,train
+Q017,claves primarias y foráneas,modelo_relacional,bases de datos,test
+Q018,primera segunda tercera forma normal,normalizacion_bd,bases de datos,val
+Q019,cardinalidad en diagramas entidad relación,entidad_relacion,bases de datos,train
+Q020,para qué sirven índices en sql,indices_bd,bases de datos,val
+Q021,cómo usar listas en python,python_listas,programación,train
+Q022,diferencia entre for y while,python_bucles,programación,train
+Q023,cómo definir funciones python,python_funciones,programación,train
+Q024,manejo de dataframes pandas,pandas,programación,train
+Q025,operaciones con matrices numpy,numpy,programación,train
+Q026,cómo funciona una interrupción arduino,arduino_interrupciones,arquitectura de computadoras,train
+Q027,qué es dma en arquitectura de computadoras,dma,arquitectura de computadoras,train
+Q028,cómo funciona la memoria caché,memoria_cache,arquitectura de computadoras,train
+Q029,diferencia entre hilos y procesos,paralelismo,arquitectura de computadoras,train
+Q030,diferencias entre cpu y gpu,gpu,arquitectura de computadoras,train

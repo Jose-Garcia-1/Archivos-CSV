@@ -1,0 +1,301 @@
+﻿consulta_id,consulta,documento_id,relevancia,criterio_etiqueta,orden_original,particion
+Q001,profundidad de árboles de decisión,D001,3,documento del tema consultado,1,train
+Q001,profundidad de árboles de decisión,D003,2,documento del tema consultado,2,train
+Q001,profundidad de árboles de decisión,D050,0,tema distinto,3,train
+Q001,profundidad de árboles de decisión,D012,1,tema relacionado en la misma área,4,train
+Q001,profundidad de árboles de decisión,D036,0,tema distinto,5,train
+Q001,profundidad de árboles de decisión,D002,3,documento del tema consultado,6,train
+Q001,profundidad de árboles de decisión,D009,1,tema relacionado en la misma área,7,train
+Q001,profundidad de árboles de decisión,D031,0,tema distinto,8,train
+Q001,profundidad de árboles de decisión,D060,0,tema distinto,9,train
+Q001,profundidad de árboles de decisión,D081,0,tema distinto,10,train
+Q002,número de estimadores en random forest,D017,1,tema relacionado en la misma área,1,test
+Q002,número de estimadores en random forest,D064,0,tema distinto,2,test
+Q002,número de estimadores en random forest,D062,0,tema distinto,3,test
+Q002,número de estimadores en random forest,D004,3,documento del tema consultado,4,test
+Q002,número de estimadores en random forest,D039,0,tema distinto,5,test
+Q002,número de estimadores en random forest,D060,0,tema distinto,6,test
+Q002,número de estimadores en random forest,D034,0,tema distinto,7,test
+Q002,número de estimadores en random forest,D005,3,documento del tema consultado,8,test
+Q002,número de estimadores en random forest,D028,1,tema relacionado en la misma área,9,test
+Q002,número de estimadores en random forest,D006,2,documento del tema consultado,10,test
+Q003,cómo funciona gradient boosting,D026,1,tema relacionado en la misma área,1,train
+Q003,cómo funciona gradient boosting,D051,0,tema distinto,2,train
+Q003,cómo funciona gradient boosting,D020,1,tema relacionado en la misma área,3,train
+Q003,cómo funciona gradient boosting,D007,3,documento del tema consultado,4,train
+Q003,cómo funciona gradient boosting,D008,3,documento del tema consultado,5,train
+Q003,cómo funciona gradient boosting,D090,0,tema distinto,6,train
+Q003,cómo funciona gradient boosting,D037,0,tema distinto,7,train
+Q003,cómo funciona gradient boosting,D036,0,tema distinto,8,train
+Q003,cómo funciona gradient boosting,D009,2,documento del tema consultado,9,train
+Q003,cómo funciona gradient boosting,D067,0,tema distinto,10,train
+Q004,interpretación de regresión lineal,D023,1,tema relacionado en la misma área,1,train
+Q004,interpretación de regresión lineal,D010,3,documento del tema consultado,2,train
+Q004,interpretación de regresión lineal,D006,1,tema relacionado en la misma área,3,train
+Q004,interpretación de regresión lineal,D036,0,tema distinto,4,train
+Q004,interpretación de regresión lineal,D012,2,documento del tema consultado,5,train
+Q004,interpretación de regresión lineal,D048,0,tema distinto,6,train
+Q004,interpretación de regresión lineal,D060,0,tema distinto,7,train
+Q004,interpretación de regresión lineal,D011,3,documento del tema consultado,8,train
+Q004,interpretación de regresión lineal,D083,0,tema distinto,9,train
+Q004,interpretación de regresión lineal,D079,0,tema distinto,10,train
+Q005,modelos de clasificación supervisada,D013,3,documento del tema consultado,1,train
+Q005,modelos de clasificación supervisada,D015,2,documento del tema consultado,2,train
+Q005,modelos de clasificación supervisada,D075,0,tema distinto,3,train
+Q005,modelos de clasificación supervisada,D060,0,tema distinto,4,train
+Q005,modelos de clasificación supervisada,D001,1,tema relacionado en la misma área,5,train
+Q005,modelos de clasificación supervisada,D007,1,tema relacionado en la misma área,6,train
+Q005,modelos de clasificación supervisada,D084,0,tema distinto,7,train
+Q005,modelos de clasificación supervisada,D014,3,documento del tema consultado,8,train
+Q005,modelos de clasificación supervisada,D070,0,tema distinto,9,train
+Q005,modelos de clasificación supervisada,D057,0,tema distinto,10,train
+Q006,cómo calcular mse mae y r2,D044,0,tema distinto,1,test
+Q006,cómo calcular mse mae y r2,D066,0,tema distinto,2,test
+Q006,cómo calcular mse mae y r2,D018,2,documento del tema consultado,3,test
+Q006,cómo calcular mse mae y r2,D016,3,documento del tema consultado,4,test
+Q006,cómo calcular mse mae y r2,D090,0,tema distinto,5,test
+Q006,cómo calcular mse mae y r2,D056,0,tema distinto,6,test
+Q006,cómo calcular mse mae y r2,D069,0,tema distinto,7,test
+Q006,cómo calcular mse mae y r2,D029,1,tema relacionado en la misma área,8,test
+Q006,cómo calcular mse mae y r2,D017,3,documento del tema consultado,9,test
+Q006,cómo calcular mse mae y r2,D026,1,tema relacionado en la misma área,10,test
+Q007,precisión recall y f1,D080,0,tema distinto,1,train
+Q007,precisión recall y f1,D021,2,documento del tema consultado,2,train
+Q007,precisión recall y f1,D031,0,tema distinto,3,train
+Q007,precisión recall y f1,D010,1,tema relacionado en la misma área,4,train
+Q007,precisión recall y f1,D020,3,documento del tema consultado,5,train
+Q007,precisión recall y f1,D086,0,tema distinto,6,train
+Q007,precisión recall y f1,D073,0,tema distinto,7,train
+Q007,precisión recall y f1,D019,3,documento del tema consultado,8,train
+Q007,precisión recall y f1,D025,1,tema relacionado en la misma área,9,train
+Q007,precisión recall y f1,D068,0,tema distinto,10,train
+Q008,separación train test y validación,D029,1,tema relacionado en la misma área,1,test
+Q008,separación train test y validación,D077,0,tema distinto,2,test
+Q008,separación train test y validación,D071,0,tema distinto,3,test
+Q008,separación train test y validación,D074,0,tema distinto,4,test
+Q008,separación train test y validación,D022,3,documento del tema consultado,5,test
+Q008,separación train test y validación,D024,2,documento del tema consultado,6,test
+Q008,separación train test y validación,D023,3,documento del tema consultado,7,test
+Q008,separación train test y validación,D069,0,tema distinto,8,test
+Q008,separación train test y validación,D036,0,tema distinto,9,test
+Q008,separación train test y validación,D003,1,tema relacionado en la misma área,10,test
+Q009,diferencia entre normalizar y estandarizar,D032,0,tema distinto,1,val
+Q009,diferencia entre normalizar y estandarizar,D009,1,tema relacionado en la misma área,2,val
+Q009,diferencia entre normalizar y estandarizar,D015,1,tema relacionado en la misma área,3,val
+Q009,diferencia entre normalizar y estandarizar,D067,0,tema distinto,4,val
+Q009,diferencia entre normalizar y estandarizar,D046,0,tema distinto,5,val
+Q009,diferencia entre normalizar y estandarizar,D078,0,tema distinto,6,val
+Q009,diferencia entre normalizar y estandarizar,D025,3,documento del tema consultado,7,val
+Q009,diferencia entre normalizar y estandarizar,D058,0,tema distinto,8,val
+Q009,diferencia entre normalizar y estandarizar,D026,3,documento del tema consultado,9,val
+Q009,diferencia entre normalizar y estandarizar,D027,2,documento del tema consultado,10,val
+Q010,cómo imputar valores nulos,D079,0,tema distinto,1,train
+Q010,cómo imputar valores nulos,D030,2,documento del tema consultado,2,train
+Q010,cómo imputar valores nulos,D011,1,tema relacionado en la misma área,3,train
+Q010,cómo imputar valores nulos,D029,3,documento del tema consultado,4,train
+Q010,cómo imputar valores nulos,D016,1,tema relacionado en la misma área,5,train
+Q010,cómo imputar valores nulos,D052,0,tema distinto,6,train
+Q010,cómo imputar valores nulos,D072,0,tema distinto,7,train
+Q010,cómo imputar valores nulos,D028,3,documento del tema consultado,8,train
+Q010,cómo imputar valores nulos,D060,0,tema distinto,9,train
+Q010,cómo imputar valores nulos,D032,0,tema distinto,10,train
+Q011,cómo funciona tf idf,D031,3,documento del tema consultado,1,train
+Q011,cómo funciona tf idf,D032,3,documento del tema consultado,2,train
+Q011,cómo funciona tf idf,D021,0,tema distinto,3,train
+Q011,cómo funciona tf idf,D076,0,tema distinto,4,train
+Q011,cómo funciona tf idf,D003,0,tema distinto,5,train
+Q011,cómo funciona tf idf,D007,0,tema distinto,6,train
+Q011,cómo funciona tf idf,D010,0,tema distinto,7,train
+Q011,cómo funciona tf idf,D033,2,documento del tema consultado,8,train
+Q011,cómo funciona tf idf,D036,1,tema relacionado en la misma área,9,train
+Q011,cómo funciona tf idf,D042,1,tema relacionado en la misma área,10,train
+Q012,etapas de un motor de búsqueda,D032,1,tema relacionado en la misma área,1,train
+Q012,etapas de un motor de búsqueda,D036,2,documento del tema consultado,2,train
+Q012,etapas de un motor de búsqueda,D045,1,tema relacionado en la misma área,3,train
+Q012,etapas de un motor de búsqueda,D035,3,documento del tema consultado,4,train
+Q012,etapas de un motor de búsqueda,D065,0,tema distinto,5,train
+Q012,etapas de un motor de búsqueda,D006,0,tema distinto,6,train
+Q012,etapas de un motor de búsqueda,D034,3,documento del tema consultado,7,train
+Q012,etapas de un motor de búsqueda,D019,0,tema distinto,8,train
+Q012,etapas de un motor de búsqueda,D046,0,tema distinto,9,train
+Q012,etapas de un motor de búsqueda,D028,0,tema distinto,10,train
+Q013,cómo ordenar resultados por relevancia,D047,0,tema distinto,1,test
+Q013,cómo ordenar resultados por relevancia,D020,0,tema distinto,2,test
+Q013,cómo ordenar resultados por relevancia,D036,1,tema relacionado en la misma área,3,test
+Q013,cómo ordenar resultados por relevancia,D024,0,tema distinto,4,test
+Q013,cómo ordenar resultados por relevancia,D086,0,tema distinto,5,test
+Q013,cómo ordenar resultados por relevancia,D068,0,tema distinto,6,test
+Q013,cómo ordenar resultados por relevancia,D039,2,documento del tema consultado,7,test
+Q013,cómo ordenar resultados por relevancia,D038,3,documento del tema consultado,8,test
+Q013,cómo ordenar resultados por relevancia,D042,1,tema relacionado en la misma área,9,test
+Q013,cómo ordenar resultados por relevancia,D037,3,documento del tema consultado,10,test
+Q014,cómo tokenizar documentos,D047,0,tema distinto,1,train
+Q014,cómo tokenizar documentos,D089,0,tema distinto,2,train
+Q014,cómo tokenizar documentos,D015,0,tema distinto,3,train
+Q014,cómo tokenizar documentos,D035,1,tema relacionado en la misma área,4,train
+Q014,cómo tokenizar documentos,D042,2,documento del tema consultado,5,train
+Q014,cómo tokenizar documentos,D040,3,documento del tema consultado,6,train
+Q014,cómo tokenizar documentos,D037,1,tema relacionado en la misma área,7,train
+Q014,cómo tokenizar documentos,D041,3,documento del tema consultado,8,train
+Q014,cómo tokenizar documentos,D072,0,tema distinto,9,train
+Q014,cómo tokenizar documentos,D029,0,tema distinto,10,train
+Q015,calcular similitud coseno entre textos,D044,3,documento del tema consultado,1,val
+Q015,calcular similitud coseno entre textos,D045,2,documento del tema consultado,2,val
+Q015,calcular similitud coseno entre textos,D018,0,tema distinto,3,val
+Q015,calcular similitud coseno entre textos,D043,3,documento del tema consultado,4,val
+Q015,calcular similitud coseno entre textos,D057,0,tema distinto,5,val
+Q015,calcular similitud coseno entre textos,D077,0,tema distinto,6,val
+Q015,calcular similitud coseno entre textos,D058,0,tema distinto,7,val
+Q015,calcular similitud coseno entre textos,D039,1,tema relacionado en la misma área,8,val
+Q015,calcular similitud coseno entre textos,D035,1,tema relacionado en la misma área,9,val
+Q015,calcular similitud coseno entre textos,D026,0,tema distinto,10,val
+Q016,consultas select con where,D048,2,documento del tema consultado,1,train
+Q016,consultas select con where,D056,1,tema relacionado en la misma área,2,train
+Q016,consultas select con where,D036,0,tema distinto,3,train
+Q016,consultas select con where,D051,1,tema relacionado en la misma área,4,train
+Q016,consultas select con where,D047,3,documento del tema consultado,5,train
+Q016,consultas select con where,D071,0,tema distinto,6,train
+Q016,consultas select con where,D068,0,tema distinto,7,train
+Q016,consultas select con where,D002,0,tema distinto,8,train
+Q016,consultas select con where,D046,3,documento del tema consultado,9,train
+Q016,consultas select con where,D024,0,tema distinto,10,train
+Q017,claves primarias y foráneas,D029,0,tema distinto,1,test
+Q017,claves primarias y foráneas,D050,3,documento del tema consultado,2,test
+Q017,claves primarias y foráneas,D051,2,documento del tema consultado,3,test
+Q017,claves primarias y foráneas,D049,3,documento del tema consultado,4,test
+Q017,claves primarias y foráneas,D064,0,tema distinto,5,test
+Q017,claves primarias y foráneas,D052,1,tema relacionado en la misma área,6,test
+Q017,claves primarias y foráneas,D031,0,tema distinto,7,test
+Q017,claves primarias y foráneas,D056,1,tema relacionado en la misma área,8,test
+Q017,claves primarias y foráneas,D073,0,tema distinto,9,test
+Q017,claves primarias y foráneas,D017,0,tema distinto,10,test
+Q018,primera segunda tercera forma normal,D073,0,tema distinto,1,val
+Q018,primera segunda tercera forma normal,D053,3,documento del tema consultado,2,val
+Q018,primera segunda tercera forma normal,D001,0,tema distinto,3,val
+Q018,primera segunda tercera forma normal,D033,0,tema distinto,4,val
+Q018,primera segunda tercera forma normal,D052,3,documento del tema consultado,5,val
+Q018,primera segunda tercera forma normal,D013,0,tema distinto,6,val
+Q018,primera segunda tercera forma normal,D051,1,tema relacionado en la misma área,7,val
+Q018,primera segunda tercera forma normal,D060,1,tema relacionado en la misma área,8,val
+Q018,primera segunda tercera forma normal,D054,2,documento del tema consultado,9,val
+Q018,primera segunda tercera forma normal,D090,0,tema distinto,10,val
+Q019,cardinalidad en diagramas entidad relación,D010,0,tema distinto,1,train
+Q019,cardinalidad en diagramas entidad relación,D089,0,tema distinto,2,train
+Q019,cardinalidad en diagramas entidad relación,D057,2,documento del tema consultado,3,train
+Q019,cardinalidad en diagramas entidad relación,D023,0,tema distinto,4,train
+Q019,cardinalidad en diagramas entidad relación,D055,3,documento del tema consultado,5,train
+Q019,cardinalidad en diagramas entidad relación,D056,3,documento del tema consultado,6,train
+Q019,cardinalidad en diagramas entidad relación,D060,1,tema relacionado en la misma área,7,train
+Q019,cardinalidad en diagramas entidad relación,D049,1,tema relacionado en la misma área,8,train
+Q019,cardinalidad en diagramas entidad relación,D004,0,tema distinto,9,train
+Q019,cardinalidad en diagramas entidad relación,D017,0,tema distinto,10,train
+Q020,para qué sirven índices en sql,D015,0,tema distinto,1,val
+Q020,para qué sirven índices en sql,D031,0,tema distinto,2,val
+Q020,para qué sirven índices en sql,D089,0,tema distinto,3,val
+Q020,para qué sirven índices en sql,D058,3,documento del tema consultado,4,val
+Q020,para qué sirven índices en sql,D065,0,tema distinto,5,val
+Q020,para qué sirven índices en sql,D050,1,tema relacionado en la misma área,6,val
+Q020,para qué sirven índices en sql,D048,1,tema relacionado en la misma área,7,val
+Q020,para qué sirven índices en sql,D059,3,documento del tema consultado,8,val
+Q020,para qué sirven índices en sql,D007,0,tema distinto,9,val
+Q020,para qué sirven índices en sql,D060,2,documento del tema consultado,10,val
+Q021,cómo usar listas en python,D009,0,tema distinto,1,train
+Q021,cómo usar listas en python,D062,3,documento del tema consultado,2,train
+Q021,cómo usar listas en python,D061,3,documento del tema consultado,3,train
+Q021,cómo usar listas en python,D051,0,tema distinto,4,train
+Q021,cómo usar listas en python,D078,0,tema distinto,5,train
+Q021,cómo usar listas en python,D027,0,tema distinto,6,train
+Q021,cómo usar listas en python,D063,2,documento del tema consultado,7,train
+Q021,cómo usar listas en python,D040,0,tema distinto,8,train
+Q021,cómo usar listas en python,D067,1,tema relacionado en la misma área,9,train
+Q021,cómo usar listas en python,D072,1,tema relacionado en la misma área,10,train
+Q022,diferencia entre for y while,D044,0,tema distinto,1,train
+Q022,diferencia entre for y while,D052,0,tema distinto,2,train
+Q022,diferencia entre for y while,D023,0,tema distinto,3,train
+Q022,diferencia entre for y while,D065,3,documento del tema consultado,4,train
+Q022,diferencia entre for y while,D025,0,tema distinto,5,train
+Q022,diferencia entre for y while,D064,3,documento del tema consultado,6,train
+Q022,diferencia entre for y while,D066,2,documento del tema consultado,7,train
+Q022,diferencia entre for y while,D051,0,tema distinto,8,train
+Q022,diferencia entre for y while,D069,1,tema relacionado en la misma área,9,train
+Q022,diferencia entre for y while,D072,1,tema relacionado en la misma área,10,train
+Q023,cómo definir funciones python,D080,0,tema distinto,1,train
+Q023,cómo definir funciones python,D088,0,tema distinto,2,train
+Q023,cómo definir funciones python,D067,3,documento del tema consultado,3,train
+Q023,cómo definir funciones python,D069,2,documento del tema consultado,4,train
+Q023,cómo definir funciones python,D014,0,tema distinto,5,train
+Q023,cómo definir funciones python,D056,0,tema distinto,6,train
+Q023,cómo definir funciones python,D059,0,tema distinto,7,train
+Q023,cómo definir funciones python,D068,3,documento del tema consultado,8,train
+Q023,cómo definir funciones python,D070,1,tema relacionado en la misma área,9,train
+Q023,cómo definir funciones python,D066,1,tema relacionado en la misma área,10,train
+Q024,manejo de dataframes pandas,D066,1,tema relacionado en la misma área,1,train
+Q024,manejo de dataframes pandas,D076,0,tema distinto,2,train
+Q024,manejo de dataframes pandas,D017,0,tema distinto,3,train
+Q024,manejo de dataframes pandas,D070,3,documento del tema consultado,4,train
+Q024,manejo de dataframes pandas,D032,0,tema distinto,5,train
+Q024,manejo de dataframes pandas,D051,0,tema distinto,6,train
+Q024,manejo de dataframes pandas,D073,1,tema relacionado en la misma área,7,train
+Q024,manejo de dataframes pandas,D071,3,documento del tema consultado,8,train
+Q024,manejo de dataframes pandas,D072,2,documento del tema consultado,9,train
+Q024,manejo de dataframes pandas,D042,0,tema distinto,10,train
+Q025,operaciones con matrices numpy,D075,2,documento del tema consultado,1,train
+Q025,operaciones con matrices numpy,D073,3,documento del tema consultado,2,train
+Q025,operaciones con matrices numpy,D013,0,tema distinto,3,train
+Q025,operaciones con matrices numpy,D005,0,tema distinto,4,train
+Q025,operaciones con matrices numpy,D026,0,tema distinto,5,train
+Q025,operaciones con matrices numpy,D028,0,tema distinto,6,train
+Q025,operaciones con matrices numpy,D064,1,tema relacionado en la misma área,7,train
+Q025,operaciones con matrices numpy,D008,0,tema distinto,8,train
+Q025,operaciones con matrices numpy,D074,3,documento del tema consultado,9,train
+Q025,operaciones con matrices numpy,D069,1,tema relacionado en la misma área,10,train
+Q026,cómo funciona una interrupción arduino,D033,0,tema distinto,1,train
+Q026,cómo funciona una interrupción arduino,D012,0,tema distinto,2,train
+Q026,cómo funciona una interrupción arduino,D082,1,tema relacionado en la misma área,3,train
+Q026,cómo funciona una interrupción arduino,D090,1,tema relacionado en la misma área,4,train
+Q026,cómo funciona una interrupción arduino,D077,3,documento del tema consultado,5,train
+Q026,cómo funciona una interrupción arduino,D027,0,tema distinto,6,train
+Q026,cómo funciona una interrupción arduino,D063,0,tema distinto,7,train
+Q026,cómo funciona una interrupción arduino,D076,3,documento del tema consultado,8,train
+Q026,cómo funciona una interrupción arduino,D064,0,tema distinto,9,train
+Q026,cómo funciona una interrupción arduino,D078,2,documento del tema consultado,10,train
+Q027,qué es dma en arquitectura de computadoras,D081,2,documento del tema consultado,1,train
+Q027,qué es dma en arquitectura de computadoras,D089,1,tema relacionado en la misma área,2,train
+Q027,qué es dma en arquitectura de computadoras,D083,1,tema relacionado en la misma área,3,train
+Q027,qué es dma en arquitectura de computadoras,D044,0,tema distinto,4,train
+Q027,qué es dma en arquitectura de computadoras,D059,0,tema distinto,5,train
+Q027,qué es dma en arquitectura de computadoras,D079,3,documento del tema consultado,6,train
+Q027,qué es dma en arquitectura de computadoras,D024,0,tema distinto,7,train
+Q027,qué es dma en arquitectura de computadoras,D063,0,tema distinto,8,train
+Q027,qué es dma en arquitectura de computadoras,D057,0,tema distinto,9,train
+Q027,qué es dma en arquitectura de computadoras,D080,3,documento del tema consultado,10,train
+Q028,cómo funciona la memoria caché,D082,3,documento del tema consultado,1,train
+Q028,cómo funciona la memoria caché,D028,0,tema distinto,2,train
+Q028,cómo funciona la memoria caché,D090,1,tema relacionado en la misma área,3,train
+Q028,cómo funciona la memoria caché,D050,0,tema distinto,4,train
+Q028,cómo funciona la memoria caché,D048,0,tema distinto,5,train
+Q028,cómo funciona la memoria caché,D083,3,documento del tema consultado,6,train
+Q028,cómo funciona la memoria caché,D084,2,documento del tema consultado,7,train
+Q028,cómo funciona la memoria caché,D043,0,tema distinto,8,train
+Q028,cómo funciona la memoria caché,D085,1,tema relacionado en la misma área,9,train
+Q028,cómo funciona la memoria caché,D065,0,tema distinto,10,train
+Q029,diferencia entre hilos y procesos,D038,0,tema distinto,1,train
+Q029,diferencia entre hilos y procesos,D030,0,tema distinto,2,train
+Q029,diferencia entre hilos y procesos,D087,2,documento del tema consultado,3,train
+Q029,diferencia entre hilos y procesos,D062,0,tema distinto,4,train
+Q029,diferencia entre hilos y procesos,D081,1,tema relacionado en la misma área,5,train
+Q029,diferencia entre hilos y procesos,D085,3,documento del tema consultado,6,train
+Q029,diferencia entre hilos y procesos,D088,1,tema relacionado en la misma área,7,train
+Q029,diferencia entre hilos y procesos,D066,0,tema distinto,8,train
+Q029,diferencia entre hilos y procesos,D086,3,documento del tema consultado,9,train
+Q029,diferencia entre hilos y procesos,D033,0,tema distinto,10,train
+Q030,diferencias entre cpu y gpu,D090,2,documento del tema consultado,1,train
+Q030,diferencias entre cpu y gpu,D089,3,documento del tema consultado,2,train
+Q030,diferencias entre cpu y gpu,D058,0,tema distinto,3,train
+Q030,diferencias entre cpu y gpu,D043,0,tema distinto,4,train
+Q030,diferencias entre cpu y gpu,D086,1,tema relacionado en la misma área,5,train
+Q030,diferencias entre cpu y gpu,D088,3,documento del tema consultado,6,train
+Q030,diferencias entre cpu y gpu,D031,0,tema distinto,7,train
+Q030,diferencias entre cpu y gpu,D013,0,tema distinto,8,train
+Q030,diferencias entre cpu y gpu,D010,0,tema distinto,9,train
+Q030,diferencias entre cpu y gpu,D077,1,tema relacionado en la misma área,10,train
